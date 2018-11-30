@@ -1,4 +1,6 @@
 # Intelligence of Advertising of Kakao Corporation
+### Kakao Corporation Web Seminar 2018
+### The seminars can be viewed [here](https://if.kakao.com/program?fbclid=IwAR3KbhqNSEYy15bC51UXHFLtciOQVC09ZF8itYpfY4KgkEAjRkEkHSdx4i4)
 
 - Scarlett Hwang
 - Informatics 201
